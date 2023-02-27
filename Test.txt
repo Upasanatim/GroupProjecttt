@@ -1,0 +1,3 @@
+Create a jira account.
+Create virtual Machine and install ubuntu in it.
+Get a github account and make your project repository.
